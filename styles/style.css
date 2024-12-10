@@ -85,7 +85,7 @@ display: inline;
 }
 
 .header__theme-menu-button_active {
-  border: 1ps solid var(--accent-color, rgba(255, 0, 112, 0.8));
+  border: 1px solid var(--accent-color, rgba(255, 0, 112, 0.8));
 }
 .header__theme-menu-item {
   position: relative;

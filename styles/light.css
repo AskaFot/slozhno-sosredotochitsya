@@ -20,7 +20,7 @@
   --color-decorated-zone: rgba(53, 52, 48, 1);
   --color-invisible-element: transparent;
   --hover-zone: rgba(53, 52, 48, 1);
-
+  --hover-zone-button: rgba(50, 49, 45, 0.4);
 
 
 }
@@ -38,6 +38,8 @@
   --color-decorated-zone: rgba(53, 52, 48, 1);
   --color-invisible-element: transparent;
   --hover-zone: rgba(53, 52, 48, 1);
+  --hover-zone-button: rgba(50, 49, 45, 0.4);
+
 }
 /* Остальные стили */
 
@@ -55,6 +57,8 @@
     --color-decorated-zone: rgba(53, 52, 48, 1);
     --color-invisible-element: transparent;
     --hover-zone: rgba(53, 52, 48, 1);
+    --hover-zone-button: rgba(50, 49, 45, 0.4);
+
   }
   .page{
     background-image: url(../images/cover-image-light.png);
